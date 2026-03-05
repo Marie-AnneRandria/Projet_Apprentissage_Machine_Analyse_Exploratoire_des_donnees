@@ -1,5 +1,5 @@
 # Projet_Apprentissage_Machine_Analyse_Exploratoire_des_donnees
-
+Le projet se trouve dans le fichier **devoir1.pynb**.
 ## Objectif du projet 🎯
 Ce projet effectué dans le cadre du cours Apprentissage Machine, consiste à récupérer les données, à visualiser les données, à préparer les données pour les algorithmes de Machine Learning, appliquée à un cas réel d'e-commerce.
 
